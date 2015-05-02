@@ -1,0 +1,8 @@
+
+修改  apache2/htdocs    /Users/jinjian/Zend/workspaces/DefaultWorkspace11/
+     bitnami.conf   
+     properties.ini
+     
+     apache_htdocs_directory=/Applications/mampstack-5.4.38-0/apache2/htdocs
+     
+     <Directory "/Applications/mampstack-5.4.38-0/apache2/htdocs">

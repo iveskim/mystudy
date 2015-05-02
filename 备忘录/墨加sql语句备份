@@ -1,0 +1,5 @@
+1.修改用户名
+
+update  pan_member set username='杨丰'  where uid=1909;
+update  pan_knmap_post set username='杨丰' where userid=1909;
+update pan_ucenter_member set username ='杨丰' where id=1909;
